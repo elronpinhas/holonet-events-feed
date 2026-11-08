@@ -1,0 +1,51 @@
+name: Publish Holonet public event feed
+
+on:
+  schedule:
+    # 00:35 UTC; before HolonEvents batch 6 at 01:52 UTC
+    - cron: '35 0 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/holonet-feed.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: holonet-public-feed
+  cancel-in-progress: false
+
+jobs:
+  refresh-feed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout feed repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install Playwright
+        run: |
+          npm install --no-save --no-package-lock --ignore-scripts playwright
+          npx playwright install --with-deps chromium
+      - name: Collect public events
+        run: |
+          node scripts/holonet-playwright.mjs > holonet-events.json
+          node -e "const f=require('./holonet-events.json'); if(f.source!=='holonet.co.il' || !Array.isArray(f.events) || f.events.length===0) process.exit(1); console.log('Valid public events:',f.events.length)"
+      - name: Commit latest feed
+        run: |
+          set -euo pipefail
+          git config user.name 'holonet-feed-bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add holonet-events.json
+          if git diff --cached --quiet; then
+            echo 'No feed change'
+          else
+            git commit -m 'Refresh public Holonet events'
+            git push
+          fi
