@@ -1,25 +1,10 @@
 {
   "source": "holonet.co.il",
-  "generated_at": "2026-11-12T01:53:27.722Z",
+  "generated_at": "2026-11-13T01:47:14.093Z",
   "page_url": "https://holonet.co.il/category/event/all/%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D",
-  "rendered_cards": 135,
+  "rendered_cards": 146,
   "skipped_no_date": 0,
   "events": [
-    {
-      "title": "צליל לטף- צעדים מוזיקליים לקטנטנים- בן גוריון",
-      "source_name": "רשת קהילה ופנאי",
-      "source_url": "https://holonet.co.il/event/112904/%D7%A6%D7%9C%D7%99%D7%9C-%D7%9C%D7%98%D7%A3-%D7%A6%D7%A2%D7%93%D7%99%D7%9D-%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%D7%99%D7%9D-%D7%9C%D7%A7%D7%98%D7%A0%D7%98%D7%A0%D7%99%D7%9D-%D7%91%D7%9F-%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%9F",
-      "registration_url": "https://holonet.co.il/event/112904/%D7%A6%D7%9C%D7%99%D7%9C-%D7%9C%D7%98%D7%A3-%D7%A6%D7%A2%D7%93%D7%99%D7%9D-%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%D7%99%D7%9D-%D7%9C%D7%A7%D7%98%D7%A0%D7%98%D7%A0%D7%99%D7%9D-%D7%91%D7%9F-%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%9F",
-      "start_date": "2026-11-12",
-      "end_date": "2026-11-12",
-      "start_time": "11:00",
-      "venue_name": "רשת קהילה ופנאי חולון",
-      "short_description": "צליל לטף – צעדים מוזיקליים לקטנטנים   מפגש מוזיקלי חווייתי לתינוקות מ...",
-      "full_description": "צליל לטף – צעדים מוזיקליים לקטנטנים   מפגש מוזיקלי חווייתי לתינוקות מ...",
-      "image_url": "https://matnasnet-static-files.s3.il-central-1.amazonaws.com/productImages2/123/2026/11/05/image1793883025d4b8df.jpeg",
-      "organizer_name": "רשת קהילה ופנאי חולון",
-      "extraction_status": "official_browser_rendered"
-    },
     {
       "title": "אלינור בתנועה- בן גוריון",
       "source_name": "רשת קהילה ופנאי",
@@ -216,6 +201,21 @@
       "extraction_status": "official_browser_rendered"
     },
     {
+      "title": "הצגת - אצבעוני",
+      "source_name": "רשת קהילה ופנאי",
+      "source_url": "https://holonet.co.il/event/119508/%D7%94%D7%A6%D7%92%D7%AA-%D7%90%D7%A6%D7%91%D7%A2%D7%95%D7%A0%D7%99",
+      "registration_url": "https://holonet.co.il/event/119508/%D7%94%D7%A6%D7%92%D7%AA-%D7%90%D7%A6%D7%91%D7%A2%D7%95%D7%A0%D7%99",
+      "start_date": "2026-11-18",
+      "end_date": "2026-11-18",
+      "start_time": "17:00",
+      "venue_name": "רשת קהילה ופנאי חולון",
+      "short_description": "אצבעוני הצגה מבית המדיטק    מחזה: דיויד בילנקה    בימוי: עידן עמית  ...",
+      "full_description": "אצבעוני הצגה מבית המדיטק    מחזה: דיויד בילנקה    בימוי: עידן עמית  ...",
+      "image_url": "https://matnasnet-static-files.s3.il-central-1.amazonaws.com/productImages2/126/2026/11/12/image17944857649e1c99.jpg",
+      "organizer_name": "רשת קהילה ופנאי חולון",
+      "extraction_status": "official_browser_rendered"
+    },
+    {
       "title": "מחברים בין דורות- הפנינג בין דורי",
       "source_name": "רשת קהילה ופנאי",
       "source_url": "https://holonet.co.il/event/99999/%D7%9E%D7%97%D7%91%D7%A8%D7%99%D7%9D-%D7%91%D7%99%D7%9F-%D7%93%D7%95%D7%A8%D7%95%D7%AA-%D7%94%D7%A4%D7%A0%D7%99%D7%A0%D7%92-%D7%91%D7%99%D7%9F-%D7%93%D7%95%D7%A8%D7%99",
@@ -272,6 +272,21 @@
       "short_description": "מזמינים אתכם למשחקייה חדשה בשכונה במרכז קהילתי לזרוס  ביום ראשון 22.1...",
       "full_description": "מזמינים אתכם למשחקייה חדשה בשכונה במרכז קהילתי לזרוס  ביום ראשון 22.1...",
       "image_url": "https://matnasnet-static-files.s3.il-central-1.amazonaws.com/productImages2/125/2026/10/22/image17926773561dcf08.png",
+      "organizer_name": "רשת קהילה ופנאי חולון",
+      "extraction_status": "official_browser_rendered"
+    },
+    {
+      "title": "צומחים ביחד- פעילות ילדי החינוך המיוחד בגינה הקהילתית \"בארי\"",
+      "source_name": "רשת קהילה ופנאי",
+      "source_url": "https://holonet.co.il/event/119509/%D7%A6%D7%95%D7%9E%D7%97%D7%99%D7%9D-%D7%91%D7%99%D7%97%D7%93-%D7%A4%D7%A2%D7%99%D7%9C%D7%95%D7%AA-%D7%99%D7%9C%D7%93%D7%99-%D7%94%D7%97%D7%99%D7%A0%D7%95%D7%9A-%D7%94%D7%9E%D7%99%D7%95%D7%97%D7%93-%D7%91%D7%92%D7%99%D7%A0%D7%94-%D7%94%D7%A7%D7%94%D7%99%D7%9C%D7%AA%D7%99%D7%AA-%22%D7%91%D7%90%D7%A8%D7%99%22",
+      "registration_url": "https://holonet.co.il/event/119509/%D7%A6%D7%95%D7%9E%D7%97%D7%99%D7%9D-%D7%91%D7%99%D7%97%D7%93-%D7%A4%D7%A2%D7%99%D7%9C%D7%95%D7%AA-%D7%99%D7%9C%D7%93%D7%99-%D7%94%D7%97%D7%99%D7%A0%D7%95%D7%9A-%D7%94%D7%9E%D7%99%D7%95%D7%97%D7%93-%D7%91%D7%92%D7%99%D7%A0%D7%94-%D7%94%D7%A7%D7%94%D7%99%D7%9C%D7%AA%D7%99%D7%AA-%22%D7%91%D7%90%D7%A8%D7%99%22",
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-22",
+      "start_time": "15:30",
+      "venue_name": "רשת קהילה ופנאי חולון",
+      "short_description": "מרכז קהילתי נווה ארזים בשיתוף הרשת המיוחדת והגינה הקהילתית \"בארי\" מזמ...",
+      "full_description": "מרכז קהילתי נווה ארזים בשיתוף הרשת המיוחדת והגינה הקהילתית \"בארי\" מזמ...",
+      "image_url": "https://matnasnet-static-files.s3.il-central-1.amazonaws.com/productImages2/128/2026/11/12/image17944830641543cd.webp",
       "organizer_name": "רשת קהילה ופנאי חולון",
       "extraction_status": "official_browser_rendered"
     },
@@ -346,7 +361,7 @@
       "venue_name": "רשת קהילה ופנאי חולון",
       "short_description": "מרכז קהילתי קליין נרגש להזמין אותך לסדרת מפגשים שכל אישה זקוקה לה! שע...",
       "full_description": "מרכז קהילתי קליין נרגש להזמין אותך לסדרת מפגשים שכל אישה זקוקה לה! שע...",
-      "image_url": "https://matnasnet-static-files.s3.il-central-1.amazonaws.com/productImages2/129/2026/11/08/image1794149679c61ada.jpg",
+      "image_url": "",
       "organizer_name": "רשת קהילה ופנאי חולון",
       "extraction_status": "official_browser_rendered"
     },
@@ -362,6 +377,21 @@
       "short_description": "טיול לשמורת אגמון החולה 24/11/26       07:30 נפגשים בחניון ימית 2000...",
       "full_description": "טיול לשמורת אגמון החולה 24/11/26       07:30 נפגשים בחניון ימית 2000...",
       "image_url": "https://matnasnet-static-files.s3.il-central-1.amazonaws.com/productImages2/122/2026/10/12/image179179906772d609.jpg",
+      "organizer_name": "רשת קהילה ופנאי חולון",
+      "extraction_status": "official_browser_rendered"
+    },
+    {
+      "title": "הצגה - דודי שמחה",
+      "source_name": "רשת קהילה ופנאי",
+      "source_url": "https://holonet.co.il/event/119510/%D7%94%D7%A6%D7%92%D7%94-%D7%93%D7%95%D7%93%D7%99-%D7%A9%D7%9E%D7%97%D7%94-",
+      "registration_url": "https://holonet.co.il/event/119510/%D7%94%D7%A6%D7%92%D7%94-%D7%93%D7%95%D7%93%D7%99-%D7%A9%D7%9E%D7%97%D7%94-",
+      "start_date": "2026-11-24",
+      "end_date": "2026-11-24",
+      "start_time": "17:00",
+      "venue_name": "רשת קהילה ופנאי חולון",
+      "short_description": "הצגה דודי שמחה - הצגה מבית המדיטק  מתאימה לגילי 5-9     עפ\"י ספרו של ...",
+      "full_description": "הצגה דודי שמחה - הצגה מבית המדיטק  מתאימה לגילי 5-9     עפ\"י ספרו של ...",
+      "image_url": "https://matnasnet-static-files.s3.il-central-1.amazonaws.com/productImages2/126/2026/11/12/image17944838161559b2.jpg",
       "organizer_name": "רשת קהילה ופנאי חולון",
       "extraction_status": "official_browser_rendered"
     },
@@ -606,6 +636,21 @@
       "extraction_status": "official_browser_rendered"
     },
     {
+      "title": "הצגה מהומה על הבמה",
+      "source_name": "רשת קהילה ופנאי",
+      "source_url": "https://holonet.co.il/event/119512/%D7%94%D7%A6%D7%92%D7%94-%D7%9E%D7%94%D7%95%D7%9E%D7%94-%D7%A2%D7%9C-%D7%94%D7%91%D7%9E%D7%94",
+      "registration_url": "https://holonet.co.il/event/119512/%D7%94%D7%A6%D7%92%D7%94-%D7%9E%D7%94%D7%95%D7%9E%D7%94-%D7%A2%D7%9C-%D7%94%D7%91%D7%9E%D7%94",
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-01",
+      "start_time": "17:00",
+      "venue_name": "רשת קהילה ופנאי חולון",
+      "short_description": "מהומה על הבמה - הצגה מבית המדיטק מחזה: מיטל סלקמון-רטן וגיל צרנוביץ' ...",
+      "full_description": "מהומה על הבמה - הצגה מבית המדיטק מחזה: מיטל סלקמון-רטן וגיל צרנוביץ' ...",
+      "image_url": "https://matnasnet-static-files.s3.il-central-1.amazonaws.com/productImages2/126/2026/11/12/image1794485337552d17.jpg",
+      "organizer_name": "רשת קהילה ופנאי חולון",
+      "extraction_status": "official_browser_rendered"
+    },
+    {
       "title": "יוצרים בעצמנו, מאירים את החג-תל גיבורים",
       "source_name": "רשת קהילה ופנאי",
       "source_url": "https://holonet.co.il/event/112798/%D7%99%D7%95%D7%A6%D7%A8%D7%99%D7%9D-%D7%91%D7%A2%D7%A6%D7%9E%D7%A0%D7%95%2C-%D7%9E%D7%90%D7%99%D7%A8%D7%99%D7%9D-%D7%90%D7%AA-%D7%94%D7%97%D7%92-%D7%AA%D7%9C-%D7%92%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%9D",
@@ -711,6 +756,21 @@
       "extraction_status": "official_browser_rendered"
     },
     {
+      "title": "הצגה ספר השיאים של פוז",
+      "source_name": "רשת קהילה ופנאי",
+      "source_url": "https://holonet.co.il/event/119493/%D7%94%D7%A6%D7%92%D7%94-%D7%A1%D7%A4%D7%A8-%D7%94%D7%A9%D7%99%D7%90%D7%99%D7%9D-%D7%A9%D7%9C-%D7%A4%D7%95%D7%96",
+      "registration_url": "https://holonet.co.il/event/119493/%D7%94%D7%A6%D7%92%D7%94-%D7%A1%D7%A4%D7%A8-%D7%94%D7%A9%D7%99%D7%90%D7%99%D7%9D-%D7%A9%D7%9C-%D7%A4%D7%95%D7%96",
+      "start_date": "2026-12-02",
+      "end_date": "2026-12-02",
+      "start_time": "17:00",
+      "venue_name": "רשת קהילה ופנאי חולון",
+      "short_description": "ספר השיאים של פוז    הצגה מבית המדיטק.    ע\"פ ספרו של דויד גרוסמן   ...",
+      "full_description": "ספר השיאים של פוז    הצגה מבית המדיטק.    ע\"פ ספרו של דויד גרוסמן   ...",
+      "image_url": "https://matnasnet-static-files.s3.il-central-1.amazonaws.com/productImages2/129/2026/11/12/image17944832790d1a67.jpg",
+      "organizer_name": "רשת קהילה ופנאי חולון",
+      "extraction_status": "official_browser_rendered"
+    },
+    {
       "title": "יוצרים בעצמנו, מאירים את החג-קרית שרת",
       "source_name": "רשת קהילה ופנאי",
       "source_url": "https://holonet.co.il/event/112799/%D7%99%D7%95%D7%A6%D7%A8%D7%99%D7%9D-%D7%91%D7%A2%D7%A6%D7%9E%D7%A0%D7%95%2C-%D7%9E%D7%90%D7%99%D7%A8%D7%99%D7%9D-%D7%90%D7%AA-%D7%94%D7%97%D7%92-%D7%A7%D7%A8%D7%99%D7%AA-%D7%A9%D7%A8%D7%AA",
@@ -722,6 +782,36 @@
       "short_description": "סדנה חוויתית ויצירתית בה נבנה, נעצב ונקשט חנוכית עץ שתאיר את הבית החנ...",
       "full_description": "סדנה חוויתית ויצירתית בה נבנה, נעצב ונקשט חנוכית עץ שתאיר את הבית החנ...",
       "image_url": "https://matnasnet-static-files.s3.il-central-1.amazonaws.com/productImages2/130/2026/11/05/image1793869583804640.webp",
+      "organizer_name": "רשת קהילה ופנאי חולון",
+      "extraction_status": "official_browser_rendered"
+    },
+    {
+      "title": "סדנת קישוטי דונאטס עם חגית מגן סבב א",
+      "source_name": "רשת קהילה ופנאי",
+      "source_url": "https://holonet.co.il/event/112767/%D7%A1%D7%93%D7%A0%D7%AA-%D7%A7%D7%99%D7%A9%D7%95%D7%98%D7%99-%D7%93%D7%95%D7%A0%D7%90%D7%98%D7%A1-%D7%A2%D7%9D-%D7%97%D7%92%D7%99%D7%AA-%D7%9E%D7%92%D7%9F-%D7%A1%D7%91%D7%91-%D7%90-",
+      "registration_url": "https://holonet.co.il/event/112767/%D7%A1%D7%93%D7%A0%D7%AA-%D7%A7%D7%99%D7%A9%D7%95%D7%98%D7%99-%D7%93%D7%95%D7%A0%D7%90%D7%98%D7%A1-%D7%A2%D7%9D-%D7%97%D7%92%D7%99%D7%AA-%D7%9E%D7%92%D7%9F-%D7%A1%D7%91%D7%91-%D7%90-",
+      "start_date": "2026-12-03",
+      "end_date": "2026-12-03",
+      "start_time": "16:30",
+      "venue_name": "רשת קהילה ופנאי חולון",
+      "short_description": "הסדנה הכי מתוקה של החג!   מרכז קהילתי נאות רחל מזמין את  ילדי טרום...",
+      "full_description": "הסדנה הכי מתוקה של החג!   מרכז קהילתי נאות רחל מזמין את  ילדי טרום...",
+      "image_url": "https://matnasnet-static-files.s3.il-central-1.amazonaws.com/productImages2/126/2026/11/04/image17937959974d60ee.jpg",
+      "organizer_name": "רשת קהילה ופנאי חולון",
+      "extraction_status": "official_browser_rendered"
+    },
+    {
+      "title": "סדנת קישוטי דונאטס עם חגית מגן סבב ב",
+      "source_name": "רשת קהילה ופנאי",
+      "source_url": "https://holonet.co.il/event/112770/%D7%A1%D7%93%D7%A0%D7%AA-%D7%A7%D7%99%D7%A9%D7%95%D7%98%D7%99-%D7%93%D7%95%D7%A0%D7%90%D7%98%D7%A1-%D7%A2%D7%9D-%D7%97%D7%92%D7%99%D7%AA-%D7%9E%D7%92%D7%9F-%D7%A1%D7%91%D7%91-%D7%91-",
+      "registration_url": "https://holonet.co.il/event/112770/%D7%A1%D7%93%D7%A0%D7%AA-%D7%A7%D7%99%D7%A9%D7%95%D7%98%D7%99-%D7%93%D7%95%D7%A0%D7%90%D7%98%D7%A1-%D7%A2%D7%9D-%D7%97%D7%92%D7%99%D7%AA-%D7%9E%D7%92%D7%9F-%D7%A1%D7%91%D7%91-%D7%91-",
+      "start_date": "2026-12-03",
+      "end_date": "2026-12-03",
+      "start_time": "17:30",
+      "venue_name": "רשת קהילה ופנאי חולון",
+      "short_description": "כיתות ד-ו  בואו לסדנה הכי מתוקה של החג!   מרכז קהילתי נאות רחל מז...",
+      "full_description": "כיתות ד-ו  בואו לסדנה הכי מתוקה של החג!   מרכז קהילתי נאות רחל מז...",
+      "image_url": "https://matnasnet-static-files.s3.il-central-1.amazonaws.com/productImages2/126/2026/11/04/image179379659939f9fa.jpg",
       "organizer_name": "רשת קהילה ופנאי חולון",
       "extraction_status": "official_browser_rendered"
     },
@@ -1086,32 +1176,17 @@
       "extraction_status": "official_browser_rendered"
     },
     {
-      "title": "סדנת קישוטי דונאטס עם חגית מגן סבב א",
+      "title": "הצגה - ספר השיאים של פוז",
       "source_name": "רשת קהילה ופנאי",
-      "source_url": "https://holonet.co.il/event/112767/%D7%A1%D7%93%D7%A0%D7%AA-%D7%A7%D7%99%D7%A9%D7%95%D7%98%D7%99-%D7%93%D7%95%D7%A0%D7%90%D7%98%D7%A1-%D7%A2%D7%9D-%D7%97%D7%92%D7%99%D7%AA-%D7%9E%D7%92%D7%9F-%D7%A1%D7%91%D7%91-%D7%90-",
-      "registration_url": "https://holonet.co.il/event/112767/%D7%A1%D7%93%D7%A0%D7%AA-%D7%A7%D7%99%D7%A9%D7%95%D7%98%D7%99-%D7%93%D7%95%D7%A0%D7%90%D7%98%D7%A1-%D7%A2%D7%9D-%D7%97%D7%92%D7%99%D7%AA-%D7%9E%D7%92%D7%9F-%D7%A1%D7%91%D7%91-%D7%90-",
+      "source_url": "https://holonet.co.il/event/119513/%D7%94%D7%A6%D7%92%D7%94-%D7%A1%D7%A4%D7%A8-%D7%94%D7%A9%D7%99%D7%90%D7%99%D7%9D-%D7%A9%D7%9C-%D7%A4%D7%95%D7%96-",
+      "registration_url": "https://holonet.co.il/event/119513/%D7%94%D7%A6%D7%92%D7%94-%D7%A1%D7%A4%D7%A8-%D7%94%D7%A9%D7%99%D7%90%D7%99%D7%9D-%D7%A9%D7%9C-%D7%A4%D7%95%D7%96-",
       "start_date": "2026-12-08",
       "end_date": "2026-12-08",
-      "start_time": "16:30",
+      "start_time": "17:00",
       "venue_name": "רשת קהילה ופנאי חולון",
-      "short_description": "הסדנה הכי מתוקה של החג!   מרכז קהילתי נאות רחל מזמין את  ילדי טרום...",
-      "full_description": "הסדנה הכי מתוקה של החג!   מרכז קהילתי נאות רחל מזמין את  ילדי טרום...",
-      "image_url": "https://matnasnet-static-files.s3.il-central-1.amazonaws.com/productImages2/126/2026/11/04/image17937959974d60ee.jpg",
-      "organizer_name": "רשת קהילה ופנאי חולון",
-      "extraction_status": "official_browser_rendered"
-    },
-    {
-      "title": "סדנת קישוטי דונאטס עם חגית מגן סבב ב",
-      "source_name": "רשת קהילה ופנאי",
-      "source_url": "https://holonet.co.il/event/112770/%D7%A1%D7%93%D7%A0%D7%AA-%D7%A7%D7%99%D7%A9%D7%95%D7%98%D7%99-%D7%93%D7%95%D7%A0%D7%90%D7%98%D7%A1-%D7%A2%D7%9D-%D7%97%D7%92%D7%99%D7%AA-%D7%9E%D7%92%D7%9F-%D7%A1%D7%91%D7%91-%D7%91-",
-      "registration_url": "https://holonet.co.il/event/112770/%D7%A1%D7%93%D7%A0%D7%AA-%D7%A7%D7%99%D7%A9%D7%95%D7%98%D7%99-%D7%93%D7%95%D7%A0%D7%90%D7%98%D7%A1-%D7%A2%D7%9D-%D7%97%D7%92%D7%99%D7%AA-%D7%9E%D7%92%D7%9F-%D7%A1%D7%91%D7%91-%D7%91-",
-      "start_date": "2026-12-08",
-      "end_date": "2026-12-08",
-      "start_time": "17:30",
-      "venue_name": "רשת קהילה ופנאי חולון",
-      "short_description": "כיתות ד-ו  בואו לסדנה הכי מתוקה של החג!   מרכז קהילתי נאות רחל מז...",
-      "full_description": "כיתות ד-ו  בואו לסדנה הכי מתוקה של החג!   מרכז קהילתי נאות רחל מז...",
-      "image_url": "https://matnasnet-static-files.s3.il-central-1.amazonaws.com/productImages2/126/2026/11/04/image179379659939f9fa.jpg",
+      "short_description": "ספר השיאים של פוז - הצגה מבית המדיטק  ע\"פ ספרו של דויד גרוסמן עיבוד ל...",
+      "full_description": "ספר השיאים של פוז - הצגה מבית המדיטק  ע\"פ ספרו של דויד גרוסמן עיבוד ל...",
+      "image_url": "https://matnasnet-static-files.s3.il-central-1.amazonaws.com/productImages2/126/2026/11/12/image179448708773b248.jpg",
       "organizer_name": "רשת קהילה ופנאי חולון",
       "extraction_status": "official_browser_rendered"
     },
@@ -1311,6 +1386,21 @@
       "extraction_status": "official_browser_rendered"
     },
     {
+      "title": "הצגה גוליבר",
+      "source_name": "רשת קהילה ופנאי",
+      "source_url": "https://holonet.co.il/event/119515/%D7%94%D7%A6%D7%92%D7%94-%D7%92%D7%95%D7%9C%D7%99%D7%91%D7%A8-",
+      "registration_url": "https://holonet.co.il/event/119515/%D7%94%D7%A6%D7%92%D7%94-%D7%92%D7%95%D7%9C%D7%99%D7%91%D7%A8-",
+      "start_date": "2026-12-09",
+      "end_date": "2026-12-09",
+      "start_time": "17:00",
+      "venue_name": "רשת קהילה ופנאי חולון",
+      "short_description": "הצגה גוליבר -הצגה מבית המדיטק על פי ספרו של ג'ונתן סוויפט  מחזה ובימו...",
+      "full_description": "הצגה גוליבר -הצגה מבית המדיטק על פי ספרו של ג'ונתן סוויפט  מחזה ובימו...",
+      "image_url": "https://matnasnet-static-files.s3.il-central-1.amazonaws.com/productImages2/126/2026/11/12/image17944883053f7057.jpg",
+      "organizer_name": "רשת קהילה ופנאי חולון",
+      "extraction_status": "official_browser_rendered"
+    },
+    {
       "title": "הפנינג חנוכה לכל המשפחה עם רפאל המטייל והדלקת החנוכייה הקהילתית",
       "source_name": "רשת קהילה ופנאי",
       "source_url": "https://holonet.co.il/event/111610/-%D7%94%D7%A4%D7%A0%D7%99%D7%A0%D7%92-%D7%97%D7%A0%D7%95%D7%9B%D7%94-%D7%9C%D7%9B%D7%9C-%D7%94%D7%9E%D7%A9%D7%A4%D7%97%D7%94-%D7%A2%D7%9D-%D7%A8%D7%A4%D7%90%D7%9C-%D7%94%D7%9E%D7%98%D7%99%D7%99%D7%9C-%D7%95%D7%94%D7%93%D7%9C%D7%A7%D7%AA-%D7%94%D7%97%D7%A0%D7%95%D7%9B%D7%99%D7%99%D7%94-%D7%94%D7%A7%D7%94%D7%99%D7%9C%D7%AA%D7%99%D7%AA",
@@ -1457,6 +1547,21 @@
       "short_description": "מרכז קהילתי נאות שושנים מזמין אתכם למפגש חנוכה קהילתי!    מכינים לבי...",
       "full_description": "מרכז קהילתי נאות שושנים מזמין אתכם למפגש חנוכה קהילתי!    מכינים לבי...",
       "image_url": "https://matnasnet-static-files.s3.il-central-1.amazonaws.com/productImages2/127/2026/11/03/image1793711238608b64.jpg",
+      "organizer_name": "רשת קהילה ופנאי חולון",
+      "extraction_status": "official_browser_rendered"
+    },
+    {
+      "title": "הצגה: גוליבר",
+      "source_name": "רשת קהילה ופנאי",
+      "source_url": "https://holonet.co.il/event/119498/%D7%94%D7%A6%D7%92%D7%94%3A-%D7%92%D7%95%D7%9C%D7%99%D7%91%D7%A8",
+      "registration_url": "https://holonet.co.il/event/119498/%D7%94%D7%A6%D7%92%D7%94%3A-%D7%92%D7%95%D7%9C%D7%99%D7%91%D7%A8",
+      "start_date": "2026-12-10",
+      "end_date": "2026-12-10",
+      "start_time": "11:00",
+      "venue_name": "רשת קהילה ופנאי חולון",
+      "short_description": "גוליבר    על פי ספרו של ג'ונתן סוויפט     מחזה ובימוי: יערה רשף נ...",
+      "full_description": "גוליבר    על פי ספרו של ג'ונתן סוויפט     מחזה ובימוי: יערה רשף נ...",
+      "image_url": "https://matnasnet-static-files.s3.il-central-1.amazonaws.com/productImages2/129/2026/11/12/image179448320115c6d0.jpg",
       "organizer_name": "רשת קהילה ופנאי חולון",
       "extraction_status": "official_browser_rendered"
     },
@@ -1656,6 +1761,21 @@
       "extraction_status": "official_browser_rendered"
     },
     {
+      "title": "הצגה: אוצר החברות",
+      "source_name": "רשת קהילה ופנאי",
+      "source_url": "https://holonet.co.il/event/119500/%D7%94%D7%A6%D7%92%D7%94%3A-%D7%90%D7%95%D7%A6%D7%A8-%D7%94%D7%97%D7%91%D7%A8%D7%95%D7%AA",
+      "registration_url": "https://holonet.co.il/event/119500/%D7%94%D7%A6%D7%92%D7%94%3A-%D7%90%D7%95%D7%A6%D7%A8-%D7%94%D7%97%D7%91%D7%A8%D7%95%D7%AA",
+      "start_date": "2026-12-15",
+      "end_date": "2026-12-15",
+      "start_time": "17:00",
+      "venue_name": "רשת קהילה ופנאי חולון",
+      "short_description": "אוצר החברות    סיפור מיוחד שמתחיל בכד    מחזה:   גיל צרנוביץ, ...",
+      "full_description": "אוצר החברות    סיפור מיוחד שמתחיל בכד    מחזה:   גיל צרנוביץ, ...",
+      "image_url": "https://matnasnet-static-files.s3.il-central-1.amazonaws.com/productImages2/129/2026/11/12/image1794483015e42df1.jpg",
+      "organizer_name": "רשת קהילה ופנאי חולון",
+      "extraction_status": "official_browser_rendered"
+    },
+    {
       "title": "משחקייה בשכונה - 16.12",
       "source_name": "רשת קהילה ופנאי",
       "source_url": "https://holonet.co.il/event/111329/%D7%9E%D7%A9%D7%97%D7%A7%D7%99%D7%99%D7%94-%D7%91%D7%A9%D7%9B%D7%95%D7%A0%D7%94-16.12",
@@ -1667,6 +1787,21 @@
       "short_description": "מרכז קהילתי לזרוס ומרכז משפחתי  מזמינים אתכם למשחקייה בשכונה.  בימי ר...",
       "full_description": "מרכז קהילתי לזרוס ומרכז משפחתי  מזמינים אתכם למשחקייה בשכונה.  בימי ר...",
       "image_url": "https://matnasnet-static-files.s3.il-central-1.amazonaws.com/productImages2/125/2026/10/26/image1793032774338748.png",
+      "organizer_name": "רשת קהילה ופנאי חולון",
+      "extraction_status": "official_browser_rendered"
+    },
+    {
+      "title": "הצגה - סיפורו של פרדיננד",
+      "source_name": "רשת קהילה ופנאי",
+      "source_url": "https://holonet.co.il/event/119516/%D7%94%D7%A6%D7%92%D7%94-%D7%A1%D7%99%D7%A4%D7%95%D7%A8%D7%95-%D7%A9%D7%9C-%D7%A4%D7%A8%D7%93%D7%99%D7%A0%D7%A0%D7%93",
+      "registration_url": "https://holonet.co.il/event/119516/%D7%94%D7%A6%D7%92%D7%94-%D7%A1%D7%99%D7%A4%D7%95%D7%A8%D7%95-%D7%A9%D7%9C-%D7%A4%D7%A8%D7%93%D7%99%D7%A0%D7%A0%D7%93",
+      "start_date": "2026-12-16",
+      "end_date": "2026-12-16",
+      "start_time": "17:00",
+      "venue_name": "רשת קהילה ופנאי חולון",
+      "short_description": "סיפורו של פרדיננד הצגה מבית המדיטק על פי רב המכר הקלאסי מאת מונרו ליף...",
+      "full_description": "סיפורו של פרדיננד הצגה מבית המדיטק על פי רב המכר הקלאסי מאת מונרו ליף...",
+      "image_url": "https://matnasnet-static-files.s3.il-central-1.amazonaws.com/productImages2/126/2026/11/12/image17944887066286d2.jpg",
       "organizer_name": "רשת קהילה ופנאי חולון",
       "extraction_status": "official_browser_rendered"
     },
@@ -1791,6 +1926,21 @@
       "extraction_status": "official_browser_rendered"
     },
     {
+      "title": "הצגה: מהומה על הבמה",
+      "source_name": "רשת קהילה ופנאי",
+      "source_url": "https://holonet.co.il/event/119499/%D7%94%D7%A6%D7%92%D7%94%3A-%D7%9E%D7%94%D7%95%D7%9E%D7%94-%D7%A2%D7%9C-%D7%94%D7%91%D7%9E%D7%94",
+      "registration_url": "https://holonet.co.il/event/119499/%D7%94%D7%A6%D7%92%D7%94%3A-%D7%9E%D7%94%D7%95%D7%9E%D7%94-%D7%A2%D7%9C-%D7%94%D7%91%D7%9E%D7%94",
+      "start_date": "2026-12-22",
+      "end_date": "2026-12-22",
+      "start_time": "17:00",
+      "venue_name": "רשת קהילה ופנאי חולון",
+      "short_description": "מהומה על הבמה   מחזה מאת המדיטק   שחקנים: עדי אייזנמן / רפי רות...",
+      "full_description": "מהומה על הבמה   מחזה מאת המדיטק   שחקנים: עדי אייזנמן / רפי רות...",
+      "image_url": "https://matnasnet-static-files.s3.il-central-1.amazonaws.com/productImages2/129/2026/11/12/image179448313446db71.jpg",
+      "organizer_name": "רשת קהילה ופנאי חולון",
+      "extraction_status": "official_browser_rendered"
+    },
+    {
       "title": "קובי קוריאט - מופע סטנדאפ",
       "source_name": "רשת קהילה ופנאי",
       "source_url": "https://holonet.co.il/event/81394/%D7%A7%D7%95%D7%91%D7%99-%D7%A7%D7%95%D7%A8%D7%99%D7%90%D7%98-%D7%9E%D7%95%D7%A4%D7%A2-%D7%A1%D7%98%D7%A0%D7%93%D7%90%D7%A4-",
@@ -1911,6 +2061,21 @@
       "extraction_status": "official_browser_rendered"
     },
     {
+      "title": "הצגה: מלך הטבע",
+      "source_name": "רשת קהילה ופנאי",
+      "source_url": "https://holonet.co.il/event/119504/%D7%94%D7%A6%D7%92%D7%94%3A-%D7%9E%D7%9C%D7%9A-%D7%94%D7%98%D7%91%D7%A2",
+      "registration_url": "https://holonet.co.il/event/119504/%D7%94%D7%A6%D7%92%D7%94%3A-%D7%9E%D7%9C%D7%9A-%D7%94%D7%98%D7%91%D7%A2",
+      "start_date": "2026-12-29",
+      "end_date": "2026-12-29",
+      "start_time": "17:00",
+      "venue_name": "רשת קהילה ופנאי חולון",
+      "short_description": "מלך הטבע     הצגה המעודדת את השמירה על החי והצומח \"כי בטבע לכל ייצור...",
+      "full_description": "מלך הטבע     הצגה המעודדת את השמירה על החי והצומח \"כי בטבע לכל ייצור...",
+      "image_url": "",
+      "organizer_name": "רשת קהילה ופנאי חולון",
+      "extraction_status": "official_browser_rendered"
+    },
+    {
       "title": "גדלתי בחולון - שאול זלצר",
       "source_name": "רשת קהילה ופנאי",
       "source_url": "https://holonet.co.il/event/51121/%D7%92%D7%93%D7%9C%D7%AA%D7%99-%D7%91%D7%97%D7%95%D7%9C%D7%95%D7%9F-%D7%A9%D7%90%D7%95%D7%9C-%D7%96%D7%9C%D7%A6%D7%A8",
@@ -1922,6 +2087,21 @@
       "short_description": "גדלתי בחולון – שנה 9!       והפעם נארח את      שאול זלצר - 29/12/...",
       "full_description": "גדלתי בחולון – שנה 9!       והפעם נארח את      שאול זלצר - 29/12/...",
       "image_url": "https://matnasnet-static-files.s3.il-central-1.amazonaws.com/productImages2/133/2026/07/01/image1782892087.png",
+      "organizer_name": "רשת קהילה ופנאי חולון",
+      "extraction_status": "official_browser_rendered"
+    },
+    {
+      "title": "הצגה -אוצרות החברות",
+      "source_name": "רשת קהילה ופנאי",
+      "source_url": "https://holonet.co.il/event/119517/%D7%94%D7%A6%D7%92%D7%94-%D7%90%D7%95%D7%A6%D7%A8%D7%95%D7%AA-%D7%94%D7%97%D7%91%D7%A8%D7%95%D7%AA-",
+      "registration_url": "https://holonet.co.il/event/119517/%D7%94%D7%A6%D7%92%D7%94-%D7%90%D7%95%D7%A6%D7%A8%D7%95%D7%AA-%D7%94%D7%97%D7%91%D7%A8%D7%95%D7%AA-",
+      "start_date": "2026-12-30",
+      "end_date": "2026-12-30",
+      "start_time": "17:00",
+      "venue_name": "רשת קהילה ופנאי חולון",
+      "short_description": "אוצר החברות -הצגה מבית מדיטק סיפור מיוחד שמתחיל בכד מחזה: גיל צרנובי...",
+      "full_description": "אוצר החברות -הצגה מבית מדיטק סיפור מיוחד שמתחיל בכד מחזה: גיל צרנובי...",
+      "image_url": "https://matnasnet-static-files.s3.il-central-1.amazonaws.com/productImages2/126/2026/11/12/image1794488594a12357.jpg",
       "organizer_name": "רשת קהילה ופנאי חולון",
       "extraction_status": "official_browser_rendered"
     },
