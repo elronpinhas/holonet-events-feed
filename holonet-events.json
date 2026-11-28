@@ -1,25 +1,10 @@
 {
   "source": "holonet.co.il",
-  "generated_at": "2026-11-27T01:57:25.722Z",
+  "generated_at": "2026-11-28T01:54:20.315Z",
   "page_url": "https://holonet.co.il/category/event/all/%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D",
-  "rendered_cards": 129,
+  "rendered_cards": 128,
   "skipped_no_date": 0,
   "events": [
-    {
-      "title": "בלאק פריידי בספרייה הקהילתית- מגדל המים",
-      "source_name": "רשת קהילה ופנאי",
-      "source_url": "https://holonet.co.il/event/121107/%D7%91%D7%9C%D7%90%D7%A7-%D7%A4%D7%A8%D7%99%D7%99%D7%93%D7%99-%D7%91%D7%A1%D7%A4%D7%A8%D7%99%D7%99%D7%94-%D7%94%D7%A7%D7%94%D7%99%D7%9C%D7%AA%D7%99%D7%AA-%D7%9E%D7%92%D7%93%D7%9C-%D7%94%D7%9E%D7%99%D7%9D-",
-      "registration_url": "https://holonet.co.il/event/121107/%D7%91%D7%9C%D7%90%D7%A7-%D7%A4%D7%A8%D7%99%D7%99%D7%93%D7%99-%D7%91%D7%A1%D7%A4%D7%A8%D7%99%D7%99%D7%94-%D7%94%D7%A7%D7%94%D7%99%D7%9C%D7%AA%D7%99%D7%AA-%D7%9E%D7%92%D7%93%D7%9C-%D7%94%D7%9E%D7%99%D7%9D-",
-      "start_date": "2026-11-27",
-      "end_date": "2026-11-27",
-      "start_time": "12:45",
-      "venue_name": "רשת קהילה ופנאי חולון",
-      "short_description": "השנה לא קונים אלא מחליפים !  השלוחה הקהילתית רביבים וקבוצת פעילי הספר...",
-      "full_description": "השנה לא קונים אלא מחליפים !  השלוחה הקהילתית רביבים וקבוצת פעילי הספר...",
-      "image_url": "https://matnasnet-static-files.s3.il-central-1.amazonaws.com/productImages2/124/2026/11/18/image1795002165accfec.png",
-      "organizer_name": "רשת קהילה ופנאי חולון",
-      "extraction_status": "official_browser_rendered"
-    },
     {
       "title": "עולם של צבעים - משחקייה בשכונה",
       "source_name": "רשת קהילה ופנאי",
